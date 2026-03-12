@@ -45,3 +45,11 @@ Llama with RAG showed the best performance across semantic and lexical evaluatio
 ## White Paper
 Full documentation:
 [Capstone White Paper](Capstone_whitepaper.pdf)
+
+## Trading Indicator Example
+
+The repository also includes a Python notebook demonstrating
+technical indicators such as RSI, SMA, and EMA on Bitcoin data.
+
+Notebook:
+crypto_trading_analysis.ipynb
