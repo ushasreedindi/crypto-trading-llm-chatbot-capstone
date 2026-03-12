@@ -44,4 +44,4 @@ Llama with RAG showed the best performance across semantic and lexical evaluatio
 
 ## White Paper
 Full documentation:
-[Capstone White Paper](capstone_whitepaper.docx)
+[Capstone White Paper](Capstone_whitepaper.pdf)
