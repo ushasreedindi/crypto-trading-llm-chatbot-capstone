@@ -19,6 +19,17 @@ The project implemented a trading strategy using technical indicators:
 - Ethereum Return: **15.93%**
 - Sharpe Ratio: **1.24**
 
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- yFinance
+- Technical Analysis Indicators (RSI, SMA, EMA)
+- Large Language Models (Llama, Mistral, Gemma)
+- Retrieval Augmented Generation (RAG)
+
 ## Chatbot Development
 
 LLMs evaluated:
